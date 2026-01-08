@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi👋,  I'm HM Abdus Salam
 
+Computer Engineer | Web Development | Software Development
 <!--
 **hm-abdus-salam/hm-abdus-salam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
